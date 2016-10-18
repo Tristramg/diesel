@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["BelongsTo",""],["GroupedBy",""],["Identifiable","Represents a struct which can be identified on a single table in the database. This must be implemented to use associations, and some features of updating."]]});
